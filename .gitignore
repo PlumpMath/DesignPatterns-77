@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MediatorPattern/MediatorPattern(WPF)/MediatorPattern(WPF)/bin/Debug
+/MediatorPattern/MediatorPattern(WPF)/MediatorPattern(WPF)/obj/Debug
