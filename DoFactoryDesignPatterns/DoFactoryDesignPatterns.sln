@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30110.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactoryDesignPatterns", "DoFactoryDesignPatterns\DoFactoryDesignPatterns.csproj", "{EDC76D81-D2D5-4E59-AA0D-E1174D2BB876}"
 EndProject
@@ -30,6 +30,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Memento", "Behavioral.Memento\Behavioral.Memento.csproj", "{4FA094BC-9D92-4A85-A587-41E0E039A7A7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Observer", "Behavioral.Observer\Behavioral.Observer.csproj", "{B39FFC20-14F5-4DD5-B261-5CCFEDE40146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.State", "Behavioral.State\Behavioral.State.csproj", "{637C262B-1352-41F3-A4ED-7EFEE9FB0DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Strategy", "Behavioral.Strategy\Behavioral.Strategy.csproj", "{7592A317-E0A7-480E-81A6-FBFB82579EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Template", "Behavioral.Template\Behavioral.Template.csproj", "{74083919-92F3-4BD7-86D0-3CCA36DA2A7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +99,18 @@ Global
 		{B39FFC20-14F5-4DD5-B261-5CCFEDE40146}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B39FFC20-14F5-4DD5-B261-5CCFEDE40146}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B39FFC20-14F5-4DD5-B261-5CCFEDE40146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637C262B-1352-41F3-A4ED-7EFEE9FB0DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637C262B-1352-41F3-A4ED-7EFEE9FB0DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637C262B-1352-41F3-A4ED-7EFEE9FB0DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637C262B-1352-41F3-A4ED-7EFEE9FB0DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7592A317-E0A7-480E-81A6-FBFB82579EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7592A317-E0A7-480E-81A6-FBFB82579EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7592A317-E0A7-480E-81A6-FBFB82579EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7592A317-E0A7-480E-81A6-FBFB82579EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74083919-92F3-4BD7-86D0-3CCA36DA2A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74083919-92F3-4BD7-86D0-3CCA36DA2A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74083919-92F3-4BD7-86D0-3CCA36DA2A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74083919-92F3-4BD7-86D0-3CCA36DA2A7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
